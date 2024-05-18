@@ -1,0 +1,3 @@
+﻿  Minesweeper game in C++.cpp
+C:\Users\roaab\source\repos\Minesweeper game in C++\Minesweeper game in C++\Minesweeper game in C++.cpp(48,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Minesweeper game in C++.vcxproj -> C:\Users\roaab\source\repos\Minesweeper game in C++\x64\Debug\Minesweeper game in C++.exe
